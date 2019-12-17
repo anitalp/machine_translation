@@ -6,5 +6,8 @@ The objective of this project is to convert a German sentence to its English cou
 
 Check out the blog post on the same [here](https://medium.com/analytics-vidhya/a-must-read-nlp-tutorial-on-neural-machine-translation-the-technique-powering-google-translate-c5c8d97d7587).
 
+
 Get deu-eng.zip from http://www.manythings.org/anki/ 
+
+Hands your own data with the English Spanish translation: (replace the dataset).
 Try spa-eng.zip too (just two columns required, clean dataset)
